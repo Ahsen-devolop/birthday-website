@@ -1,0 +1,9 @@
+PHP.net: Szczegółowe opisy funkcji PHP.
+W3Schools: Samouczki dotyczące PHP, HTML i CSS.
+Stack Overflow: Forum, które wykorzystałem do rozwiązywania błędów napotkanych podczas kodowania.
+
+Unsplash: Tła strony oraz inne zdjęcia stockowe.
+Pexels: Darmowe źródła zdjęć.
+
+FontAwesome: Ikony używane w pasku nawigacji.
+Google Fonts: Czcionki użyte na stronie.
