@@ -1,10 +1,8 @@
  Birthday Website Project
 
-This is a simple web application built as a birthday-themed site using **HTML**, **CSS**, **PHP**, and **MySQL**. It features a guestbook, a gallery, and interactive message functionality.
+This is a simple web application built as a birthday-themed site using **HTML**, **CSS**, **PHP**, and **MySQL**. It features a guestbook, a gallery, and interactive message functionality.![Birthday Website Preview](./Bhirtday.png)
 
-![Birthday Website Preview](./Bhirtday.png)
-
- Features
+Features
 
 -  Birthday landing page  
 -  Submit and view birthday messages  
