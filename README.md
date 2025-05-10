@@ -4,8 +4,6 @@ This is a simple web application built as a birthday-themed site using **HTML**,
 
 ![Birthday Website Preview](./Bhirtday.png)
 
-
-
  Features
 
 -  Birthday landing page  
